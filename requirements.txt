@@ -1,0 +1,9 @@
+Django>=4.2
+djangorestframework
+Pillow
+opencv-python
+numpy
+python-dotenv
+drf-yasg
+torch
+torchvision
