@@ -18,4 +18,4 @@ POST an image to:
 See sample images in `/samples/`.
 
 ## Author
-Auto-generated
+Pravesh yadav
